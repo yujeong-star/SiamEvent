@@ -6,7 +6,7 @@ We provide 'Real Event Dataset' recorded with DAVIS346 for event-based object tr
 
 The dataset link is: https://drive.google.com/drive/folders/1mtTFQ4R3GzZRYwevmLDLrEbWOCGVlUiN?usp=sharing (~5GB)
 
-If you use our dataset, please cite the following publication.
+If you use our dataset, please cite:
 
     @misc{chae2021siamevent,
         title={SiamEvent: Event-based Object Tracking via Edge-aware Similarity Learning with Siamese Networks}, 
